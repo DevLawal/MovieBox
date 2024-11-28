@@ -3,16 +3,15 @@ import { getAnalytics } from "firebase/analytics
 
 
 
-DATABASE_URL = 'mongodb+srv://aminumohammedlawal00:Alatech123@clusteramin.6uhwk5u.mongodb.net/Clusteramin'
+DATABASE_URL = ''
 
 NEXTAUTH_JWT_SECRET = "NEXTAUTH_JWT_SECREET"
 NEXTAUTH_SECRET ="NEXTAUTH_SECRET"
 
-GITHUB_ID ='5698fc245c54a42cc14e'
-GITHUB_SECRET = 'f483f6d2259ce7d6a813b3b97d010dc063044d69'
+GITHUB_ID =''
+GITHUB_SECRET = ''
 
-GOOGLE_CLIENT_ID='896513285646-8u6dpj368o5rkaq3s9qnfi32di23opau.apps.googleusercontent.com'
-GOOGLE_CLIENT_SECRET='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'
+GOOGLE_CLIENT_Id =''
 
 
 
